@@ -1,2 +1,2 @@
 # DataToInsights
-Files for the data to insight
+Files for the data to insight course
